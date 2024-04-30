@@ -1,4 +1,4 @@
-# National Parks Explorer
+# National Parks 
 
 National Parks Explorer is an Android application designed to provide detailed information about national parks. Utilizing Java and the Google Maps API, this app offers an interactive and enriched user experience, allowing users to explore various national parks around the country. From park history to hiking trails, the app is your digital guide to the great outdoors.
 
